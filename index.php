@@ -915,6 +915,12 @@ include "data.php";
                   </li>
 
                   <li>
+                    <span style="color: #a7cb00; font-size: 20px;">Economic instability</span>
+                    <span href="#" class="float-right">2020.03.01</span>
+                    <p style="font-size: 16px;">Trading paused due to economic instability (COVID-19 Outbreak)</p>
+                  </li>
+
+                  <li>
                     <span style="color: #a7cb00; font-size: 20px;">Testing 2 Result</span>
                     <span href="#" class="float-right">2020.03.31</span>
                     <p style="font-size: 16px;">. . .</p>
